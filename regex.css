@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(255, 231, 220) ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    /* /* background-image:Verdana, Geneva, Tahoma, sans-serif
+    background repeat: no repeat; */
+}
+
+h1 {
+    text-align: center;
+    color: grey;
+    border: solid 2px blacl;
+    border-radius: 25px;
+    /* pedding-bottom: 20px: */
+}
+
+h1:hover {
+    color: red;
+}
+
+
